@@ -1,5 +1,5 @@
 # MOVIECLUB 
-Sito web per appassionati del cinema che permette agli utenti di esplorare una vasta raccolta di film, in cui si possono lasciare recensioni e valutazioni, offrendo un ambiente coinvolgente ed organizzato.
+Sito web per appassionati del cinema che permette agli utenti di esplorare una vasta raccolta di film, in cui si possono lasciare recensioni e valutazioni, offrendo un ambiente coinvolgente ed organizzato.\
 Progetto realizzato per il corso di Ingegneria del software dell'Università di Salerno (2023/2024).
 
 # Documentazione
